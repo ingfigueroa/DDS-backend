@@ -1,0 +1,28 @@
+{
+  "name": "dds-backend",
+  "version": "1.0.0",
+  "description": "Desarrollo de Software Ver 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "dds-test",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingfigueroa/DDS-backend.git"
+  },
+  "author": "Roly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingfigueroa/DDS-backend/issues"
+  },
+  "homepage": "https://github.com/ingfigueroa/DDS-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+  
+    
+}
